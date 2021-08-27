@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_gamelist",
+  "version": "1.0.0",
+  "description": "Projeto 01 do Módulo 03 de Back-end - Blue EdTech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnicacio/nodejs_gamelist.git"
+  },
+  "author": "Carlos Nicacio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnicacio/nodejs_gamelist/issues"
+  },
+  "homepage": "https://github.com/cnicacio/nodejs_gamelist#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
