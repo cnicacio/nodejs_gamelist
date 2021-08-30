@@ -4,7 +4,8 @@
   "description": "Projeto 01 do Módulo 03 de Back-end - Blue EdTech",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "repository": {
     "type": "git",
